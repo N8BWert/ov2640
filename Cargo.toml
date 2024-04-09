@@ -2,6 +2,11 @@
 name = "ov2640"
 version = "0.1.0"
 edition = "2021"
+author = ["Nathaniel Wert <n8.wert.b@gmail.com>"]
+description = "Driver for the OV2640 Camera Module"
+readme = "README.md"
+keywords = ["no_std", "camera", "ov2640", "embedded-hal"]
+categories = ["no_std", "embedded", "arduino", "drivers"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
